@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-email cut.meutia.5030..?account paspos fb..? cut.meutia.5030
-
+EMIAl CUT.MEUTIA.5030..?
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 try:
